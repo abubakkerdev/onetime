@@ -5,7 +5,7 @@ import { Preloader, Row, Column } from "@/components/reactdash-ui";
 import { PopularPages } from "@/components/widgets";
 import UserOnline from "@/components/tables/UserOnline";
 // content
-import { SessionTabs, SessionChart, DeviceChart, BrowserChart, ActiveUser, TrafficTabs } from "@/components/charts/analytics";
+import { SessionTabs, SessionChart, DeviceChart, BrowserChart, ActiveUser, TrafficTabs } from "@/components/charts/analytics/Index";
 
 export default function Analytics() {
   return (
